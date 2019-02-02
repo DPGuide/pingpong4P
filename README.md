@@ -1,4 +1,4 @@
-# pingpong4P
+# pingpong4P Nintendo Switch
 PingPong 4 Players , the 2 Player main code comes from XorTroll and his Pong Example
 https://github.com/XorTroll/Brew.js/tree/1.0/Examples/PONG
 
