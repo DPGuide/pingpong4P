@@ -1,7 +1,8 @@
 
 /*  Brew.js example for Nintendo Switch: PONG  */
 // main code XorTroll ( 2 Player )
-// 4 Player added by Toshiva
+// 4 Player added by DPGuide , Cooyright is something for Babylonier or Loser (PEACE)
+
 
 var sdl = require("sdl");
 var game = require("game");
