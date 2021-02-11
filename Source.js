@@ -1,7 +1,6 @@
-
 /*  Brew.js example for Nintendo Switch: PONG  */
 // main code XorTroll ( 2 Player )
-// 4 Player added by DPGuide , Cooyright is something for Babylonier or Loser (PEACE)
+// 4 Player added by DPGuide , Copyright is something for Babylonier or Loser (PEACE)
 
 
 var sdl = require("sdl");
@@ -25,7 +24,7 @@ text.color({ R: 60, G: 60, B: 60, A: 255 });
 text.show();
 
 // We create the player 1 bar. (a rectangle)
-var bar1 = new sdl.Object(__dirname + "/Bar1.png");
+var bar1 = new sdl.Object(__dirne + "/Bar1.png");
 bar1.x(0);
 bar1.y(200);
 bar1.show();
